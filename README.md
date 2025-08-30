@@ -2,7 +2,7 @@
 An obs add-on that easily and quickly lets you hotkey audio fade transitions to specific audio sources
 
 # How to install:
-1) download the volume_control.py script
+1) download the OBS-volume-fade-control.py script
 2) in obs, navigate to tools > scripts > add script (+ icon)
 3) find the downloaded .py script and click ok and it should appear
 
