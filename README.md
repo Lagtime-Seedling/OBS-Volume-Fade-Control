@@ -1,3 +1,5 @@
+![demo of obs volume fade control](demo.gif)
+
 # OBS-Volume-Fade-Control
 An obs add-on that easily and quickly lets you hotkey audio fade transitions to specific audio sources
 
