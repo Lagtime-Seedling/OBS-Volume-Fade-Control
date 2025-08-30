@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="demo.gif">
+  <img src="demo.gif" width="400">
 
 # OBS-Volume-Fade-Control
 An obs add-on that easily and quickly lets you hotkey audio fade transitions to specific audio sources
